@@ -1,5 +1,6 @@
-cff61dd4edb863c37c1dc415e806fe94 *DESCRIPTION
+7b17132a87dbf31f9013de8351e7e970 *DESCRIPTION
 1faed3aba1d3398dac96b23cf3cfff93 *NAMESPACE
-a0f703b5c534727de7a260278e0f1a0a *R/patchSynctex.R
+f3cd73d80ce4d7636d23897c9f1a701b *NEWS
+18ab5b06745fdc72a3db4b0731e3184a *R/patchSynctex.R
 316dd921b00feff8eff848035b210560 *man/patchSynctex-package.Rd
 3653b0d260a91a55edfcd198ea581262 *man/patchSynctex.Rd
