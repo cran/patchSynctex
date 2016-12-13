@@ -1,7 +1,7 @@
-89db50dedd8e96c4524c3e0250890eab *DESCRIPTION
+07cf2525d1a94d6751dfae7e076fc5a3 *DESCRIPTION
 95b12d7ad938910811d01ac05cd600ec *NAMESPACE
-91ef2e5d44f2407ade12006744b916d1 *NEWS
-18ab5b06745fdc72a3db4b0731e3184a *R/patchSynctex.R
+062b96e6f0b2e9cbd0d7b05bd81356b3 *NEWS
+d3f764544d52335a9763810a258e778c *R/patchSynctex.R
 58b6893efd6e5181f62abaeaa56612f7 *README.md
-cb915acca7a73ba19200002215f57267 *man/patchSynctex-package.Rd
-3653b0d260a91a55edfcd198ea581262 *man/patchSynctex.Rd
+cfd0f2e58572ff92643aaa7a37c3fe00 *man/patchSynctex-package.Rd
+5dee658108247ab06bda8b1c494175bc *man/patchSynctex.Rd
